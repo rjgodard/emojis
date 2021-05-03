@@ -1,0 +1,13 @@
+Package: emojis
+Type: Package
+Title: Tools for analyzing text containing emojis
+Version: 0.1.0
+Author: Rebecca Godard
+Maintainer: Rebecca Godard <rjgodard@mail.ubc.ca>
+Description: Tools for counting emojis in texts, identifying the most common emojis in a text, and conducting sentiment analysis on text containing emojis using the NRC Emotion Lexicon and the NRC Emoji Lexicon.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    syuzhet,
+    stringr
