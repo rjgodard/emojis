@@ -7,7 +7,7 @@ Emoji NRC Lexicon
 \description{
 Contains ratings of 1719 emojis on eight emotions (anger, anticipation, disgust, fear, joy, sadness, surprise, trust) and two sentiments (negative, positive). Contains emojis up to and including Unicode 12.1.0.
 }
-\usage{data("all_emojis")}
+\usage{data("emoji_lexicon")}
 \format{
   A data frame with 1719 observations on the following 11 variables.
   \describe{
